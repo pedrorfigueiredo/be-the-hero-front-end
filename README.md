@@ -6,7 +6,7 @@
 
 Demo: [Be the Hero](https://seu-cantinho.web.app/)
 
-Be the Hero is an web app sharing Non-governmental Organizations.
+Be the Hero is an web app for sharing non-governmental Organizations.
 
 It is an SPA (Single Page Application) served by a RESTful API, using the stack: PostgreSQL + Express + React + Node.js.
 
